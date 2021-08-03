@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NonyeReeta
-- 👀 I’m interested in Python, Data Science, Ml and IT support.
+- 👀 I’m interested in backend web development with Python, Python Scripting and automation and Data Science.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python projects, DS, ML.
 - 📫 How to reach me nonyeibeanu@gmail.com
