@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NonyeReeta
-- 👀 I’m interested in building solutions with Python and Javascript, Python Scripting and automation and Data Science.
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in building solutions with **Python** and **Javascript**, **Python Scripting and automation**.
+- 🌱 I’m currently learning **Frontend web development @ Udacity.
 - 💞️ I’m looking to collaborate on software development projects, DS, ML.
-- 📫 How to reach me nonyeibeanu@gmail.com
+- 📫 How to reach me **nonyeibeanu@gmail.com
 
 <!---
 NonyeReeta/NonyeReeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
